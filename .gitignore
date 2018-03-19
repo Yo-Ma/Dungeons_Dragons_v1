@@ -1,0 +1,5 @@
+# Dossiers
+.idea/
+
+# Fichiers
+*.backup
